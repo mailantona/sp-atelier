@@ -1,1 +1,1 @@
-asdsdf
+0:/websites/sp-atelier.ru/system/application/views/template/
